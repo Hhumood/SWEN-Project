@@ -65,7 +65,7 @@ The Unipool project followed an **agile approach** with clear documentation and 
 
 **Artifacts include:**
 - User Stories for Drivers and Riders  
-- UML Diagrams (Use Case, Activity, Sequence, Class, and State)  
+- UML Diagrams (Use Case, Activity, Sequence, and Class)  
 - System Architecture Diagram  
 - Wireframes and UI Mockups in Figma  
 
